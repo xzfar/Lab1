@@ -1,8 +1,8 @@
 #include <stdio.h>
-#include <sys/types.h>
 
-int main(){
-fork();
-printf("Hello World \n");
-return 0;
+int main(void) {
+/* This is my first program in C */
+printf("Hello World!");
+printf("I Love C");
+return (0);
 }
